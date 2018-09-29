@@ -1,0 +1,29 @@
+commit 35ecdff0a769bf941b6036393b4cca9cb37d3161
+Merge: 30b2539 776d1fd
+Author: Danish Mohammed <damo6513@colorado.edu>
+Date:   Sat Sep 29 01:23:40 2018 -0600
+
+    resolved merge conflict
+
+diff --combined readme.md
+index e9d0d24,d5ca60e..8bd1c8a
+--- a/readme.md
++++ b/readme.md
+@@@ -1,2 -1,2 +1,6 @@@
+  Danish Mohammed Lab 4
+++
+ +This may cause a merge conflict
+++
++ Partner: damo6513test
+++
+
+commit 30b2539d7dc7fcbf982687c4928fa2f59dd094cc
+Author: Danish Mohammed <damo6513@colorado.edu>
+Date:   Sat Sep 29 01:21:18 2018 -0600
+
+    merge conflict commit
+
+diff --git a/readme.md b/readme.md
+index 88e5369..e9d0d24 100644
+--- a/readme.md
++++ b/readme.md
